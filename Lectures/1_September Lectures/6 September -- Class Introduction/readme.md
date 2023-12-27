@@ -9,7 +9,7 @@
 
 ### Reading
 - <a href="https://www.python.org/about/gettingstarted/" target="_blank">Python review as needed</a>
-- <a href="../../Syllabus.md" target="_blank">Class syllabus</a>
+- <a href="../../../Syllabus.md" target="_blank">Class syllabus</a>
 
 ### Slides
 - <a href="CS236_Introduction_fall2023.pptx" target="_blank">Before class</a>
