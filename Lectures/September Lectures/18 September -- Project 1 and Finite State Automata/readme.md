@@ -4,7 +4,7 @@
 
 - Definition 3 and Example 4 Section 13.3.3 (skip "Extending the Transition Function").
 - Definition 4 and Examples 5-8 Section 13.3.4
-- <a hdef= "Project1-Guide.pdf"> Project 1 Guide</a> (and the General Project Guide if you haven't read it already)
+- <a hdef= "Project1__Guide.pdf"> Project 1 Guide</a> (and the General Project Guide if you haven't read it already)
 - <a hdef="https://github.com/BYU-CS-236/jupyter-notebook-tutorials"> Jupyter notebook tutorial </a> on implementing FSAs in Python:
   - A video tutorial on how to download and step through Jupyter notebook tutorials is available <a hdef="https://www.youtube.com/watch?v=wGpAdec_Ycg"> here </a>
   - The tutorial is useful if you've never used Jupyter notebooks before.
