@@ -1,18 +1,7 @@
-# HW03b_FIRST_Sets
----
-### Question 1
-
-Find the FIRST sets for all of the productions with the following non-terminals (on the left-hand side) from Project 2:
-```
-rule
-query
-schemeList
-factList
-ruleList
-queryList
-```
+# HW08 - FIRST and FOLLOW Sets
 
 Project 2 Grammar (lowercase words represent a single non-terminal, upper case words represent a single terminal, lambda is the empty string)
+
 ```
 datalogProgram -> SCHEMES COLON scheme schemeList FACTS COLON factList RULES COLON ruleList QUERIES COLON query queryList EOF
 
@@ -35,4 +24,34 @@ stringList -> COMMA STRING stringList | lambda
 
 idList -> COMMA ID idList | lambda
 parameter -> STRING | ID
+```
+
+---
+
+### Question 1
+
+Find the FIRST sets for all of the productions with the following non-terminals (on the left-hand side) from Project 2:
+
+```
+rule
+query
+schemeList
+factList
+ruleList
+queryList
+```
+
+### Question 2
+
+Find the FOLLOW sets for all of the productions with the following non-terminals (on the left-hand side) from Project 2:
+
+```
+schemeList
+factList
+ruleList
+queryList
+predicateList
+parameterList
+stringList
+idList
 ```
