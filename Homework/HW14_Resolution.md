@@ -1,6 +1,9 @@
-# HW10_Resolution
+# HW14 - Resolution
+
 ---
+
 ### Question 1
+
 Use resolution to prove:
 
 if $(\lnot P \lor R) \land (Q \lor R) \land (P \lor \lnot Q)$
@@ -15,8 +18,8 @@ Prove by contradiction using resolution. Justify each step. Table below is given
 | 2    | $(Q \lor R)$             | Premise       |
 | 3    | $(\lnot P \lor \lnot Q)$ | Premise       |
 
-
 ---
+
 ### Question 2
 
 Use resolution to prove:
@@ -30,4 +33,3 @@ Construct your proof as follows:
 a. Convert the premises to conjunctive normal form
 
 b. Using the re-written premises, prove by contradiction, using resolution
-
