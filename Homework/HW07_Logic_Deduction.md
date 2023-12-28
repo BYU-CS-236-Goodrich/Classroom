@@ -1,28 +1,23 @@
-# HW11b - Logic Deduction
-
+# HW07_Logic_Deduction
 ---
-
 ### Question 1
 
 Use the Truth Table Method to show that the following arguments are sound
 
 a.
-
-> 1.  P → Q
-> 2.  P → R
+>1. P → Q
+>2. P → R
 
 ∴ P → (Q ∨ R)
 
 b.
-
-> 1.  P ∨ Q
-> 2.  P → R
-> 3.  Q → R
+>1. P ∨ Q
+>2. P → R
+>3. Q → R
 
 ∴ R
 
 ---
-
 ### Question 2
 
 Do the following proofs deductively. Justify each step in your proof with a law or inference rule
@@ -32,19 +27,16 @@ Do the following proofs deductively. Justify each step in your proof with a law 
 2. if (P → (Q ∧ R)) ∧ (¬R ∧ Q) then prove ¬P
 
 ---
-
 ### Question 3
 
 Given the following premises:
-
-> 1.  "if cows fly then there is a man in the moon”
-> 2.  “if there is a man in the moon then the earth is flat”
-> 3.  “cows fly”
+>1. "if cows fly then there is a man in the moon”
+>2. “if there is a man in the moon then the earth is flat”
+>3. “cows fly”
 
 Prove the following conclusion: “the earth is flat.” Justify each step in your proof with a law or an inference rule.
 
 ---
-
 ### Question 4
 
 For each of the following scenarios, indicate which of the rules of inference are used (Modus ponens, Disjunctive syllogism, etc.)
