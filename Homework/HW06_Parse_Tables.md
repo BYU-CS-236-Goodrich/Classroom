@@ -21,4 +21,4 @@ Give a parse table for the following grammar. (S is the start symbol.)
 
 Using your parse table in Problem 1, give the state of the input string and stack at every iteration using the input string `dbbe`. _Is the string accepted or rejected?_
 
-![](/Classroom/assets/images/hw/HW06_Q2.png)
+![](/assets/images/hw/HW06_Q2.png)

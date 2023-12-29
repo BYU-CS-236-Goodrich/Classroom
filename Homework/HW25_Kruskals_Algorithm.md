@@ -4,7 +4,7 @@
 
 Consider graph G:
 
-![](/Classroom/assets/images/hw/HW24_Graph_G.png)
+![](/assets/images/hw/HW24_Graph_G.png)
 
 ---
 

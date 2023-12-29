@@ -4,7 +4,7 @@
 
 Using Graph G answer the following questions:
 
-![](/Classroom/assets/images/hw/HW19_Graph_G.png)
+![](/assets/images/hw/HW19_Graph_G.png)
 
 a. Give the minimum path from D to B and its length.
 
@@ -22,8 +22,8 @@ Give the adjacency list representation for the following graphs. Graph b is undi
 
 a.
 
-![](/Classroom/assets/images/hw/HW19_Q2a.png)
+![](/assets/images/hw/HW19_Q2a.png)
 
 b.
 
-![](/Classroom/assets/images/hw/HW19_Q2b.png)
+![](/assets/images/hw/HW19_Q2b.png)
