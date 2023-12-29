@@ -13,7 +13,7 @@ Give a parse table for the following grammar. (S is the start symbol.)
 6. B -> b
 ```
 
-![](/Classroom/assets/images/hw/HW06_EmptyParseTable.png)
+![](/assets/images/hw/HW06_EmptyParseTable.png)
 
 ---
 
