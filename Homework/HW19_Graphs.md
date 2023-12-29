@@ -1,0 +1,29 @@
+# HW19_Graphs
+
+### Question 1
+
+Using Graph G answer the following questions:
+
+![](/Classroom/assets/images/hw/HW19_Graph_G.png)
+
+a. Give the minimum path from D to B and its length.
+
+b. Is a simple path in G?
+
+c. Is a cycle in G?
+
+d. Give all simple cycles of G
+
+---
+
+### Question 2
+
+Give the adjacency list representation for the following graphs. Graph b is undirected and the edge weights (the numbers above the lines) may be ignored.
+
+a.
+
+![](/Classroom/assets/images/hw/HW19_Q2a.png)
+
+b.
+
+![](/Classroom/assets/images/hw/HW19_Q2b.png)
