@@ -1,4 +1,4 @@
-# HW05_FIRST_FOLLOW_Sets
+# HW05_First_and_Follow_Sets
 
 ```
 datalogProgram -> SCHEMES COLON scheme schemeList FACTS COLON factList RULES COLON ruleList QUERIES COLON query queryList EOF
