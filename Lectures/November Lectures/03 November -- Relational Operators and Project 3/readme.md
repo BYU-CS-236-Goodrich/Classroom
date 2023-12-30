@@ -15,5 +15,5 @@
 
 ## Slides
 
-- **Before class**
-- **After class**
+- <a href="Relational_Data_Model_Fall_2023pptx.pptx"> Before class </a>
+- <a href="Relational_Data_Model_Fall_2023_after_class.pptx"> After class </a>
