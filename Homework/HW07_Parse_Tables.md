@@ -13,7 +13,7 @@ Give a parse table for the following grammar. (S is the start symbol.)
 6. B -> b
 ```
 
-![](/assets/images/hw/HW07_EmptyParseTable.png)
+![](/Homework/images/HW07_EmptyParseTable.png)
 
 ---
 
@@ -21,4 +21,4 @@ Give a parse table for the following grammar. (S is the start symbol.)
 
 Using your parse table in Problem 1, give the state of the input string and stack at every iteration using the input string `dbbe`. _Is the string accepted or rejected?_
 
-![](/assets/images/hw/HW07_Q2.png)
+![](/Homework/images/hw/HW07_Q2.png)
