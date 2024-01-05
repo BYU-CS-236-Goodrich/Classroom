@@ -2,7 +2,7 @@
 
 Consider the following weighted graph G.
 
-![](/Classroom/Homework/images/HW24_Graph_G.png)
+![](/Homework/images/HW24_Graph_G.png)
 
 Use Dijkstra's algorithm as discussed in textbook with the special (starting) vertex a to answer the following questions. After initialization, this is what the distinguished set looks like, S={}
 and this is what the set of vertex labels looks like
