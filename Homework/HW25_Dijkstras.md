@@ -19,9 +19,13 @@ and this is what the set of vertex labels looks like
 
 What does the set of distinguished vertices S and the list of vertex labels L(v) look like after the first iteration of the algorithm?
 
+---
+
 ### Question 2
 
 What does the set of distinguished vertices S and the list of vertex labels L(v) look like after the second iteration of the algorithm?
+
+---
 
 ### Question 3
 
