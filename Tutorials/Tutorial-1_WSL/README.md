@@ -1,4 +1,4 @@
-# WSL Setup Tutorial for Windows Users (For C++ Semeesters)
+# WSL Setup Tutorial for Windows Users (For C++ Semesters)
 
 ### Estimated Time for Completion: 10 minutes
 
