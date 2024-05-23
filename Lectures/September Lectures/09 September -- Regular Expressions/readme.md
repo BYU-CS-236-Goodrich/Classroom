@@ -1,4 +1,4 @@
-# 11 September -- Regular Expressions
+# 09 September -- Regular Expressions
 
 
 ## Before Class Reading

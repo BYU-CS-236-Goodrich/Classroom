@@ -1,4 +1,4 @@
-# 22 September -- Parse Trees and Fixing Ambiguity
+# 20 September -- Parse Trees and Fixing Ambiguity
 
 ## Reading
 

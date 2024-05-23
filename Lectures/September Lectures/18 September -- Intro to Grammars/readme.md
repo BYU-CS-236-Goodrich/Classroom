@@ -1,4 +1,4 @@
-# 20 September -- Intro to Grammars
+# 18 September -- Intro to Grammars
 
 ## Before Class Reading
 

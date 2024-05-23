@@ -1,4 +1,4 @@
-# 15 September -- Finite State Machines
+# 13 September -- Finite State Machines
 
 
 ## Before Class Reading

@@ -1,4 +1,4 @@
-# 18 September -- Project 1 and Finite State Automata
+# 16 September -- Project 1 and Finite State Automata
 
 ## Before Class Reading
 

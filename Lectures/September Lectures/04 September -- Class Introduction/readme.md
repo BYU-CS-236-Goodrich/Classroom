@@ -1,4 +1,4 @@
-# 6 September -- Class Introduction
+# 4 September -- Class Introduction
 
 ## Class Introduction
 
